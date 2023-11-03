@@ -16,3 +16,7 @@ export function deley(message: string, time: number) {
     }
   })
 }
+
+// Quokka
+// deley('hello', 10)
+// deley('hello', -10)
